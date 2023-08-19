@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cffa0f6aaSimpleAutoDelete|r
+## Notes: github.com/nullfoxh/SimpleAutoDelete-WOTLK
+## Author: null
+## Version: 1.0
+## SavedVariablesPerCharacter: SimpleAutoDelete
+
+SimpleAutoDelete.lua
