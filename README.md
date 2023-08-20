@@ -1,5 +1,7 @@
 # SimpleAutoDelete
 
+![Screenshot](SimpleAutoDelete.png)
+
 ## What is it
 
 SimpleAutoDelete is a lightweight and minimal list based addon for Wow Wotlk 3.3.5a to automatically delete unwanted items.
